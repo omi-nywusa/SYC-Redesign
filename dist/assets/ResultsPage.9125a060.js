@@ -1,0 +1,1 @@
+import{P as e}from"./PageTitleCard.43e43659.js";import{d as t,o as s,a,e as o,w as r,g as c,b as l}from"./index.bee75b83.js";const n={class:"results"},_=l("section",{style:{height:"500px"}},null,-1),f=t({__name:"ResultsPage",setup(d){return(i,u)=>(s(),a("div",n,[o(e,null,{default:r(()=>[c("Results")]),_:1}),_]))}});export{f as default};
